@@ -1,0 +1,28 @@
+name: Cyberdelic
+favicon: null
+layout_spectrum: 0.2151935927104205
+typography_spectrum: 0.11939071258530021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5778323484119028
+  lightness: 0.5349401829298586
+  saturation: 0.8889020155183971
+  rhythmicContrast: 0.0326692215166986
+purpose: []
